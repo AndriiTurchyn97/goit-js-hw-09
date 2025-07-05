@@ -64,7 +64,7 @@ const images = [
     },
 ];
 
-  
+  // перепуш
 const list = document.querySelector('.gallery');
  
   const imgGallery = images
